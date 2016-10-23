@@ -1,0 +1,6 @@
+{
+	"git_binary": {
+        "default": "",
+        "windows": "D:/Git/bin/git.exe"
+    },
+}
