@@ -1,5 +1,11 @@
 {
-    "JavaScript": {
-        "javascriptExtraPaths": []
-    },
+	/*
+       An array of language names which are enabled.
+    */
+    "codeintel_enabled_languages":
+    [
+       "JavaScript", "SCSS", "Python", "css",
+       "Ruby", "Python3", "XML", "Sass", "HTML5", "Perl",
+       "Twig", "Less", "Node.js", "TemplateToolkit", "PHP"
+    ]
 }
