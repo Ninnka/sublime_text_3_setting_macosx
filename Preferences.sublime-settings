@@ -2,16 +2,17 @@
 	"always_show_minimap_viewport": true,
 	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
-	// "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"theme": "ayu-mirage.sublime-theme",
-	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	// Theme UI (values = "Afterglow", "Afterglow-blue", "Afterglow-green", "Afterglow-magenta", "Afterglow-orange")
+	"theme": "Afterglow.sublime-theme",
+	// Color scheme (values = "Afterglow", "Afterglow-monokai", "Afterglow-twilight")
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"default_line_ending": "unix",
 	"dpi_scale": 1.0,
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_face": "consolas",
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
